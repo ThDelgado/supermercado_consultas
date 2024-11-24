@@ -7,7 +7,7 @@ evaluacion
 m7_s7
 
 Para clonar:
-
+https://github.com/ThDelgado/app_supermercado_uno_muchos.git
 
 Thelma Delgado
 
